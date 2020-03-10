@@ -1,0 +1,24 @@
+
+
+VVVVVVVV           VVVVVVVVIIIIIIIIIITTTTTTTTTTTTTTTTTTTTTTT               AAA               LLLLLLLLLLL             IIIIIIIIIIIIIIIIIIII
+V::::::V           V::::::VI::::::::IT:::::::::::::::::::::T              A:::A              L:::::::::L             I::::::::II::::::::I
+V::::::V           V::::::VI::::::::IT:::::::::::::::::::::T             A:::::A             L:::::::::L             I::::::::II::::::::I
+V::::::V           V::::::VII::::::IIT:::::TT:::::::TT:::::T            A:::::::A            LL:::::::LL             II::::::IIII::::::II
+ V:::::V           V:::::V   I::::I  TTTTTT  T:::::T  TTTTTT           A:::::::::A             L:::::L                 I::::I    I::::I
+  V:::::V         V:::::V    I::::I          T:::::T                  A:::::A:::::A            L:::::L                 I::::I    I::::I
+   V:::::V       V:::::V     I::::I          T:::::T                 A:::::A A:::::A           L:::::L                 I::::I    I::::I
+    V:::::V     V:::::V      I::::I          T:::::T                A:::::A   A:::::A          L:::::L                 I::::I    I::::I
+     V:::::V   V:::::V       I::::I          T:::::T               A:::::A     A:::::A         L:::::L                 I::::I    I::::I
+      V:::::V V:::::V        I::::I          T:::::T              A:::::AAAAAAAAA:::::A        L:::::L                 I::::I    I::::I
+       V:::::V:::::V         I::::I          T:::::T             A:::::::::::::::::::::A       L:::::L                 I::::I    I::::I
+        V:::::::::V          I::::I          T:::::T            A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL  I::::I    I::::I
+         V:::::::V         II::::::II      TT:::::::TT         A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::LII::::::IIII::::::II
+          V:::::V          I::::::::I      T:::::::::T        A:::::A               A:::::A  L::::::::::::::::::::::LI::::::::II::::::::I
+           V:::V           I::::::::I      T:::::::::T       A:::::A                 A:::::A L::::::::::::::::::::::LI::::::::II::::::::I
+            VVV            IIIIIIIIII      TTTTTTTTTTT      AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIIIIIIIIIIIII
+
+
+
+
+
+
